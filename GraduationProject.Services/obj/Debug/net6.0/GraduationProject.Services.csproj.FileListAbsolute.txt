@@ -1,0 +1,17 @@
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\bin\Debug\net6.0\GraduationProject.Services.deps.json
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\bin\Debug\net6.0\GraduationProject.Services.dll
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\bin\Debug\net6.0\GraduationProject.Services.pdb
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\bin\Debug\net6.0\GraduationProject.Core.dll
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\bin\Debug\net6.0\GraduationProject.Repository.dll
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\bin\Debug\net6.0\GraduationProject.Repository.pdb
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\bin\Debug\net6.0\GraduationProject.Core.pdb
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\GraduationProject.Services.csproj.AssemblyReference.cache
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\GraduationProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\GraduationProject.Services.AssemblyInfoInputs.cache
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\GraduationProject.Services.AssemblyInfo.cs
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\GraduationProject.Services.csproj.CoreCompileInputs.cache
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\Graduati.C445973D.Up2Date
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\GraduationProject.Services.dll
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\refint\GraduationProject.Services.dll
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\GraduationProject.Services.pdb
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Services\obj\Debug\net6.0\ref\GraduationProject.Services.dll

@@ -1,0 +1,12 @@
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\bin\Debug\net6.0\GraduationProject.Core.deps.json
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\bin\Debug\net6.0\GraduationProject.Core.dll
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\bin\Debug\net6.0\GraduationProject.Core.pdb
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\GraduationProject.Core.csproj.AssemblyReference.cache
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\GraduationProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\GraduationProject.Core.AssemblyInfoInputs.cache
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\GraduationProject.Core.AssemblyInfo.cs
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\GraduationProject.Core.csproj.CoreCompileInputs.cache
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\GraduationProject.Core.dll
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\refint\GraduationProject.Core.dll
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\GraduationProject.Core.pdb
+D:\.net route\08 APIs\GraduationProject\GraduationProject.Core\obj\Debug\net6.0\ref\GraduationProject.Core.dll
